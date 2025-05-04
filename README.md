@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+JavaやC言語の基本文法を大学で学んでいる程度の理系大学生です．
+復習もかねてアウトプットをしようと思っています．
+
+コードで改善の余地がある場合は，ご指摘いただけると助かります．
+
+![](https://komarev.com/ghpvc/?username=Santonn)
